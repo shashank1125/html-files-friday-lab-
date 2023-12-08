@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         GIT_REPO_URL = 'https://github.com/shashank1125/html-files-friday-lab-.git'
-        NGINX_PATH = 'D:\downloads\nginx-1.24.0\nginx-1.24.0\html'
+        NGINX_PATH = 'D:\downloads\nginx-1.24.0\nginx-1.24.0\htmldocs'
     }
 
     stages {
